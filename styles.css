@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+     border: dashed;
+     font-family: mali, cursive;
+}
+ul {
+    color: purple;
+}
+img {
+    width:200px;
+    border: double;
+    display: inline;
+}
+h1 {
+    color: blue;
+}
